@@ -4,3 +4,24 @@
 .nav-menu {
   text-align: right;
 }
+.img-link {
+  text-decoration: none;
+}
+.quote {
+  padding: 2px 20px;
+  background: #fafafa;
+}
+.header {
+  text-align: center;
+  margin-bottom: 80px;
+}
+.sperm-whale {
+  display: block;
+  margin: 0 auto;
+}
+.article {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
